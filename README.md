@@ -1,6 +1,6 @@
 # class-real-time-aggregator
 
-```class-generator``` provides the software for real-time hierarchical temporal aggregation of data coming from smart cameras of the CLASS project. 
+```class-real-time-aggregator``` provides the software for real-time hierarchical temporal aggregation of data coming from smart cameras of the CLASS project. 
 
 In particular, the application must be able to process streams of incoming data in real time, produced by a series of infrastructures contained within the Modena Smart Model Area defined by the MASA (Modena Automotive Smart Area) project.
 
